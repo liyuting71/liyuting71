@@ -1,5 +1,5 @@
 - 👋 Hi, I’m liyuting
-- 👀 I’m interested in software engineering,modelling,aumation,ai and robot
+- 👀 I’m interested in software engineering,modelling,automation,ai and robot
 - 🌱 I’m currently learning arithmetic on ai, scrum, ddd, etc
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me :  liyuting.xa@163.com
